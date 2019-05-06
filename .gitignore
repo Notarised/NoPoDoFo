@@ -17,7 +17,6 @@ lib/binding/
 .vs/
 .directory
 .node-version
-build*
 cmake-build-debug/
 CMakeSettings.json
 node_modules/
